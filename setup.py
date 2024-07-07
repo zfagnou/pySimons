@@ -14,7 +14,7 @@ setup(
     },
     author='Zachary Fagnou',
     author_email='zfagnou3@gmail.com',
-    description='A package for generating synthetic corporate finance data',
+    description='A package which expands on the tools provided by pyfinance',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/yourusername/finance_tools',

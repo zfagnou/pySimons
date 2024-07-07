@@ -1,5 +1,5 @@
 import unittest
-from pyquant.company import Company
+from pysimons.company import Company
 
 class TestCompany(unittest.TestCase):
     def setUp(self):
